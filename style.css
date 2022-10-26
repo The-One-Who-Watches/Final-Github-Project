@@ -1,0 +1,14 @@
+.paragraph {
+  border: 10px solid black;
+  background-color: whitesmoke;
+  border-radius: 10px;
+}
+
+.header {
+  color: white;
+  background-color: black;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+}
